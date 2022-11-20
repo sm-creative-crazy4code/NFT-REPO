@@ -1,0 +1,23 @@
+TN:
+SF:C:\Users\SNEHA MANDAL\OneDrive\Desktop\ultimate-nft-project\contracts\BasicNFT.sol
+FN:15,constructor
+FN:25,mintNft
+FN:36,tokenURI
+FN:44,getTokenCounter
+FNF:4
+FNH:0
+FNDA:0,constructor
+FNDA:0,mintNft
+FNDA:0,tokenURI
+FNDA:0,getTokenCounter
+DA:16,0
+DA:26,0
+DA:27,0
+DA:28,0
+DA:37,0
+DA:45,0
+LF:6
+LH:0
+BRF:0
+BRH:0
+end_of_record
