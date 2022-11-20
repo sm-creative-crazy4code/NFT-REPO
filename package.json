@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "base64-sol": "^1.1.0",
     "hardhat": "^2.12.2"
   },
   "dependencies": {
